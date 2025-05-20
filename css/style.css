@@ -1,0 +1,27 @@
+header{
+    height: 6em;
+    background: orangered;
+}
+
+.container{
+    display: flex;
+    gap: 5em;
+    padding: 1em;
+}
+
+.azul{
+    height: 24em;
+    width: 22em;
+    background: blue;
+}
+
+.rojo{
+    height: 24em;
+    width: 43em;
+    background: red;
+}
+
+footer{
+    height: 6em;
+    background: orangered;
+}
